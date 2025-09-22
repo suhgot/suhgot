@@ -1,5 +1,4 @@
-# 💫 About Me:
-👋 Hi, I'm Saugat Shah<br>🎓 Electrical & Computer Engineering student at SUNY University at Albany <br>
+🎓 Electrical & Computer Engineering student at SUNY University at Albany <br>
 
 
 ## 🌐 Socials:
